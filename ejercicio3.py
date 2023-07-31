@@ -40,5 +40,5 @@ mundo={
         }
 }
 
-for var_mun in mundo.values():
-    print("los valores del diccionario son", var_mun)
+for val_mun in mundo.values():
+    print("los valores del diccionario son", val_mun)
